@@ -8,3 +8,6 @@
 - ch1. 깃옵스 설명(생략)
 - ch2. ArgoCD 시작하기
 - ch3. Argo CD 운영
+- ch4. RBAC
+- ch5. ArgoCD로 k8s 부트스트랩
+- ch6. ArgoCD 배포 파이프라인 설계
