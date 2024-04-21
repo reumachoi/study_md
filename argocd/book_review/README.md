@@ -11,3 +11,4 @@
 - ch4. RBAC
 - ch5. ArgoCD로 k8s 부트스트랩
 - ch6. ArgoCD 배포 파이프라인 설계
+- ch7. ArgoCD 클러스터 관리
