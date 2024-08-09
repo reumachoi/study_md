@@ -144,3 +144,43 @@
 10. Vulnerable
 
 - CVE Patch: kube-bench
+
+## k8s controller manager
+
+- Node controller
+- Job controller
+- EndpointSlice controller
+- ServiceAccount controller
+
+## Supply Chain Compliance
+
+- Regulations
+- Safety and Quality
+- Data Protection and Privacy
+
+### PCI Compliance(PCI DSS)
+- business manages credit card transactions
+   
+### MITRE ATT&CK
+
+- Framework
+- helping teams structure security practices like penetration testing and threat modeling.
+
+### Sandboxing
+
+1. gVisor: user-space **kernal** 사용. , 컨테이너가 호스트 내부(underlying host)에 대한 제한적인 접근 권한만
+2. kata: **런타임, vm** 내 실행
+3. Firecracker: MicroVM 하이퍼 바이저, fargate나 **서버리스** 환경을 위함
+
+## Kubernetes Hardening Guide
+
+https://media.defense.gov/2022/Aug/29/2003066362/-1/-1/0/CTR_KUBERNETES_HARDENING_GUIDANCE_1.2_20220829.PDF
+
+## Cheat Sheet
+
+https://cheatsheetseries.owasp.org/cheatsheets/Kubernetes_Security_Cheat_Sheet.html
+
+## Reference Github
+
+- https://github.com/iamaliyousefi/kcsa?tab=readme-ov-file
+- https://github.com/riquetta/KCSA/wiki#important-note
